@@ -1,0 +1,7 @@
+[package]
+name = "crab-talk"
+version = "0.1.0"
+authors = ["nacl42 <code@nacl42.de>"]
+description = "yet another rust translation system"
+repository = "https://github.com/nacl42/crab-talk"
+keywords = ["i18n"]
